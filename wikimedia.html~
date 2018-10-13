@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Freelancer - Start Bootstrap Theme</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+
+    <!-- Plugin CSS -->
+    <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css">
+
+    <!-- Custom styles for this template -->
+    <link href="css/freelancer.min.css" rel="stylesheet">
+
+  </head>
+
+  <body id="page-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg bg-secondary fixed-top text-uppercase" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">FOSS Info</a>
+        <button class="navbar-toggler navbar-toggler-right text-uppercase bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          Menu
+          <i class="fas fa-bars"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item mx-0 mx-lg-1">
+              <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#portfolio">Images</a>
+            </li>
+            <li class="nav-item mx-0 mx-lg-1">
+              <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#about">About</a>
+            </li>
+            <li class="nav-item mx-0 mx-lg-1">
+              <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#links">Links</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Header -->
+    <header class="masthead bg-primary text-white text-center">
+      <div class="container">
+        <img class="img-fluid mb-5 d-block mx-auto" src="img/profile.png" alt="">
+        <!-- <h1 class="text-uppercase mb-0">WikiMedia</h1>-->
+       <hr class="star-light"> 
+        <h2 class="font-weight-light mb-0">
+The Wikimedia Foundation
+      <h4 class="font-weight-light mb-0">American non-profit and charitable organization</h4>
+</h2>
+      </div>
+    </header>
+
+    <!-- Portfolio Grid Section -->
+    <section class="portfolio" id="portfolio">
+      <div class="container">
+        <h2 class="text-center text-uppercase text-secondary mb-0">Images</h2>
+        <hr class="star-dark mb-5">
+        <div class="row">
+          <div class="col-md-6 col-lg-4">
+            <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-1">
+              <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                  <i class="fas fa-search-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="img/portfolio/cabin.jpg" alt="">
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-2">
+              <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                  <i class="fas fa-search-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="img/portfolio/cake.jpg" alt="">
+            </a>
+          </div>
+          <div class="col-md-6 col-lg-4">
+            <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-3">
+              <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                  <i class="fas fa-search-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="img/portfolio/circus.jpg" alt="">
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="bg-primary text-white mb-0" id="about">
+      <div class="container">
+        <h2 class="text-center text-uppercase text-white">About</h2>
+        <hr class="star-light mb-5">
+        <div class="row">
+          <div class="col-lg-4 ml-auto">
+            <p class="lead">The Wikimedia Foundation, Inc. (WMF, or simply Wikimedia) is an American non-profit and charitable organization headquartered in San Francisco, California.[6] It is mostly known for participating in the Wikimedia movement. It owns the internet domain names of most movement projects and hosts sites like Wikipedia. The foundation was founded in 2003 by Jimmy Wales as a way to fund Wikipedia and its sister projects through non-profit means.
+
+As of 2015, the foundation employs over 280 people, with annual revenues in excess of US$75 million.[9] María Sefidari is chair of the board. Katherine Maher is the executive director since March 2016. </p>
+          </div>
+          <div class="col-lg-4 mr-auto">
+            <p class="lead">In 2001, Jimmy Wales, an Internet entrepreneur, and Larry Sanger, an online community organizer and philosophy professor, founded Wikipedia as an Internet encyclopedia to supplement Nupedia. The project was originally funded by Bomis, Jimmy Wales's for-profit business. As Wikipedia's popularity increased, revenues to fund the project stalled. Since Wikipedia was depleting Bomis's resources, Wales and Sanger thought of a charity model to fund the project. The Wikimedia Foundation was incorporated in Florida on June 20, 2003. It applied to the United States Patent and Trademark Office to trademark Wikipedia on September 14, 2004. The mark was granted registration status on January 10, 2006. Trademark protection was accorded by Japan on December 16, 2004, and, in the European Union, on January 20, 2005. There were plans to license the use of the Wikipedia trademark for some products, such as books or DVDs.</p>
+          </div>
+        </div>
+        <div class="text-center mt-4">
+          <a class="btn btn-xl btn-outline-light" href="#">
+            <i class="fas fa-download mr-2"></i>
+            <li ahref="https://www.wikimedia.org/"></li>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Links Section -->
+    <section id="links">
+      <div class="container">
+        <h2 class="text-center text-uppercase text-secondary mb-0">Links</h2>
+        <hr class="star-dark mb-5">
+        <div class="row">
+          <div class="col-lg-8 mx-auto">
+            <!-- To configure the links form email address, go to mail/links_me.php and update the email address in the PHP file on line 19. -->
+ <ul>
+  <li ahref="https://en.wikipedia.org/wiki/File:Wikimedia_Foundation_logo_-_vertical.svg"></li>
+  <li ahref="https://upload.wikimedia.org/wikipedia/commons/8/8f/149_New_Montgomery_Street%2C_San_Francisco.jpg"></li>
+  <li ahref="https://upload.wikimedia.org/wikipedia/commons/c/c4/Christophe_Henner_d%C3%A9fend_son_bilan.JPG"></li>
+  <li ahref="https://upload.wikimedia.org/wikipedia/commons/9/94/Wikimedia_Foundation_Servers-8055_13.jpg"></li>
+</ul> 
+            <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+
+    <div class="copyright py-4 text-center text-white">
+      <div class="container">
+        <small>Every content in this page can be copied and shared.</small>
+      </div>
+    </div>
+
+    <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
+    <div class="scroll-to-top d-lg-none position-fixed ">
+      <a class="js-scroll-trigger d-block text-center text-white rounded" href="#page-top">
+        <i class="fa fa-chevron-up"></i>
+      </a>
+    </div>
+
+    <!-- Portfolio Modals -->
+
+    <!-- Portfolio Modal 1 -->
+    <div class="portfolio-modal mfp-hide" id="portfolio-modal-1">
+      <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+          <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <h2 class="text-secondary text-uppercase mb-0">The Goals of Wikimedia</h2>
+              <hr class="star-dark mb-5">
+              <img class="img-fluid mb-5" src="img/portfolio/cabin.jpg" alt="">
+              <p class="mb-5">The Wikimedia Foundation has the stated goal of developing and maintaining open content, wiki-based projects and providing the full contents of those projects to the public free of charge. Another main objective of the Wikimedia Foundation is political advocacy.
+
+The Wikimedia Foundation was granted section 501(c)(3) status by the U.S. Internal Revenue Code as a public charity in 2005. Its National Taxonomy of Exempt Entities (NTEE) code is B60 (Adult, Continuing education). The foundation's by-laws declare a statement of purpose of collecting and developing educational content and to disseminate it effectively and globally.   </p>
+              <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                <i class="fa fa-close"></i>
+                Close Project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Portfolio Modal 2 -->
+    <div class="portfolio-modal mfp-hide" id="portfolio-modal-2">
+      <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+          <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <h2 class="text-secondary text-uppercase mb-0">Chairman</h2>
+              <hr class="star-dark mb-5">
+              <img class="img-fluid mb-5" src="img/portfolio/cake.jpg" alt="">
+              <p class="mb-5">The current board comprises Christophe Henner as chairman and María Sefidari as vice-chairman, together with Tanya Capuano, Nataliia Tymkiv, Kelly Battles, Dariusz Jemielniak as members at-large, and Jimmy Wales as founder's seat (installed as "Community Founder Trustee Position" to the WMF bylaws in August 2008). James Heilman was appointed as a community selected trustee in August 2017. Raju Narisetti, CEO of Gizmodo Media Group, was appointed trustee in October 2017, and Bahraini human rights activist and blogger Esra'a Al Shafei idem in November 2017.</p>
+              <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                <i class="fa fa-close"></i>
+                Close Project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Portfolio Modal 3 -->
+    <div class="portfolio-modal mfp-hide" id="portfolio-modal-3">
+      <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+          <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <h2 class="text-secondary text-uppercase mb-0">Softwаrе Technology</h2>
+              <hr class="star-dark mb-5">
+              <img class="img-fluid mb-5" src="img/portfolio/circus.jpg" alt="">
+              <p class="mb-5">
+
+The operation of Wikimedia depends on MediaWiki, a custom-made, free and open-source wiki software platform written in PHP and built upon the MySQL database. The software incorporates programming features such as a macro language, variables, a transclusion system for templates, and URL redirection. MediaWiki is licensed under the GNU General Public License and it is used by all Wikimedia projects, as well as many other wiki projects. Originally, Wikipedia ran on UseModWiki written in Perl by Clifford Adams (Phase I), which initially required CamelCase for article hyperlinks; the present double bracket style was incorporated later. Starting in January 2002 (Phase II), Wikipedia began running on a PHP wiki engine with a MySQL database; this software was custom-made for Wikipedia by Magnus Manske. The Phase II software was repeatedly modified to accommodate the exponentially increasing demand. In July 2002 (Phase III), Wikipedia shifted to the third-generation software, MediaWiki, originally written by Lee Daniel Crocker. Several MediaWiki extensions are installed to extend the functionality of MediaWiki software. In April 2005, a Lucene extension was added to MediaWiki's built-in search and Wikipedia switched from MySQL to Lucene for searching. Currently Lucene Search 2.1, which is written in Java and based on Lucene library 2.3, is used. Wikimedia Foundation also uses CiviCRM and WordPress.
+
+The foundation published official Wikipedia mobile apps for Android and iOS devices and in March 2015, the apps were updated to include mobile user friendly features.
+</p>
+              <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                <i class="fa fa-close"></i>
+                Close Project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+    <!-- Links Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/links_me.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="js/freelancer.min.js"></script>
+
+  </body>
+
+</html>
